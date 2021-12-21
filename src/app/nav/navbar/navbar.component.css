@@ -1,0 +1,20 @@
+.buttons > * {
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+nav {
+  padding: 1.4em;
+}
+
+.navbar-brand {
+  margin-left: 1em;
+}
+
+.navbar-nav {
+  margin: 0 auto;
+}
+
+.nav-item {
+  margin: 0 2em;
+}
